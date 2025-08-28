@@ -23,4 +23,4 @@
 | 52 49 46 46 ?? ?? ?? ?? 57 45 42 50             | 0      | webp            | WebP image (Google)                                           |
 | 46 4C 49 46                                     | 0      | flif            | Free Lossless Image Format (FLIF)                             |
 | 44 49 43 4D (DICM)                              | 128    | dcm             | Medical image DICOM                                           |
-| 53 49 4D 50 4C 45 …                             | 0      | fits            | Flexible Image Transport System (FITS)                        |
+| 53 49 4D 50 4C 45                               | 0      | fits            | Flexible Image Transport System (FITS)                        |
